@@ -40,7 +40,7 @@ nano ~/.wine/user.reg
 ```
 `save (Ctrl + X)`
 
-### Step 5 set dpi to 196
+### Step 5 set dpi to 196 (Fix small font)
 ```bash
 winecfg
 ```
