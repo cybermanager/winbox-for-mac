@@ -54,7 +54,7 @@ https://mt.lv/winbox64
 cd Downloads && wine winbox64
 ```
 
-### Step 7 for ZSH
+### Step 7 for ZSH Only
 ```bash
 mkdir .Applications && cd .Applications
 ```
@@ -72,6 +72,6 @@ winbox
 ```
 
 ### Images
-
+![Winbox00](images/winbox00.png)
 ![Winbox01](images/winbox01.png)
 ![Winbox02](images/winbox02.png)
